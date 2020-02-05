@@ -1,3 +1,13 @@
+#Project is Live at:
+
+https://mytravelplan.herokuapp.com/
+TestData:
+
+User - username: teststander@gmail.com, password: password
+Property - username: teststander@gmail.com , password: password
+Admin - username: admin, password: password
+
+
 # finalCapstone
 
 ## Note this project uses the HTML5 Date Picker type input, it is only fully supported in Google Chrome, please use the application in Google Chrome only.
