@@ -118,7 +118,7 @@ class PropertyDetails extends Component {
               <div className="imgBox">{imgSrc}</div>
               <div className="rates">
                 <hr></hr>
-                <h1 style={{margin: "0.1%"}}>RATES</h1>
+                <h1 style={{ margin: "0.1%" }}>RATES</h1>
                 <table>
                   <thead>
                     <tr>
